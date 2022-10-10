@@ -1,0 +1,29 @@
+p{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font:bold;
+    font-style: italic;
+    
+}
+
+a.link{
+    color: aqua;
+}
+a.visited{
+    color: green;
+}
+a.hover{
+    color: hotpink;
+}
+a.active{
+    color:black;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font:bold;
+    word-spacing: 10px;
+    
+}
